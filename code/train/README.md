@@ -11,6 +11,8 @@ Prerequisited:
 Pytorch 1.9.0 cuda 11.1
 (pip install --user torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html)
 
-Numpy, Pandas
+Numpy
 
-Preprocesse and windowed EEG data and  manifest files stored in multiple subfolds
+Pandas
+
+Preprocessed and windowed EEG data and  manifest files stored in multiple subfolds
