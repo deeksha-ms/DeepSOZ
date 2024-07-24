@@ -8,3 +8,6 @@ We propose a robust deep learning framework to simultaneously detect and localiz
 <p>Download TUH data from: <a href="https://isip.piconepress.com/projects/tuh_eeg/">TUH Seizure Corpus</a></p>
 Please follow the instructions on the website for access and downloading. In this work, we only use the Seizure subcorpus. 
 
+<h2> Cite as </h2>
+<p> M. Shama, D., Jing, J., Venkataraman, A. (2023). DeepSOZ: A Robust Deep Model for Joint Temporal and Spatial Seizure Onset Localization from Multichannel EEG Data. In: Greenspan, H., et al. Medical Image Computing and Computer Assisted Intervention – MICCAI 2023. MICCAI 2023. Lecture Notes in Computer Science, vol 14227. Springer, Cham. https://doi.org/10.1007/978-3-031-43993-3_18 </p>
+
